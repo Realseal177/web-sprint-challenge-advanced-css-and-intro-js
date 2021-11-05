@@ -246,15 +246,8 @@ If correct, the function should return ["Salvador Dali", "Frida Kahlo"]*/
 // Hint - Look up the .split() method
 
 function get20s(array) {
-  const newArray = array.split();
-  for (let i = 0; i < array.length; i++) {
-
-  }
-
-  
-  return newArray;
+ 
 }
-
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
